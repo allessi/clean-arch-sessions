@@ -1,0 +1,12 @@
+C:\apps\clean-arch-sessions\src\CleanArch.Application\bin\Debug\net7.0\CleanArch.Application.deps.json
+C:\apps\clean-arch-sessions\src\CleanArch.Application\bin\Debug\net7.0\CleanArch.Application.dll
+C:\apps\clean-arch-sessions\src\CleanArch.Application\bin\Debug\net7.0\CleanArch.Application.pdb
+C:\apps\clean-arch-sessions\src\CleanArch.Application\obj\Debug\net7.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\apps\clean-arch-sessions\src\CleanArch.Application\obj\Debug\net7.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\apps\clean-arch-sessions\src\CleanArch.Application\obj\Debug\net7.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\apps\clean-arch-sessions\src\CleanArch.Application\obj\Debug\net7.0\CleanArch.Application.AssemblyInfo.cs
+C:\apps\clean-arch-sessions\src\CleanArch.Application\obj\Debug\net7.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\apps\clean-arch-sessions\src\CleanArch.Application\obj\Debug\net7.0\CleanArch.Application.dll
+C:\apps\clean-arch-sessions\src\CleanArch.Application\obj\Debug\net7.0\refint\CleanArch.Application.dll
+C:\apps\clean-arch-sessions\src\CleanArch.Application\obj\Debug\net7.0\CleanArch.Application.pdb
+C:\apps\clean-arch-sessions\src\CleanArch.Application\obj\Debug\net7.0\ref\CleanArch.Application.dll
